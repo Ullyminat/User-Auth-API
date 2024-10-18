@@ -1,6 +1,6 @@
 # User Registration Authentication
 
-## RU
+## RU 🇷🇺
 
 ### Описание
 
@@ -26,7 +26,7 @@
 
     ```bash
     git clone https://github.com/Ullyminat/User-Reg-Auth.git
-    cd Reg&Auth
+    cd 'Reg&Auth'
     ```
 
 2. Установите зависимости:
@@ -55,12 +55,16 @@
     npm run dev
     ```
 
-    Доступ по [http://localhost:3009](http://localhost:3009).
+    Доступ по [http://localhost:3009](http://localhost:3009)
+   
 
     ```bash
     cd frontend/
     npm run dev
     ```
+    
+    Доступ по [http://localhost:5173](http://localhost:5173)
+
 
 ### API Эндпоинты
 
