@@ -1,4 +1,4 @@
-# User Authentication API
+# User Registration Authentication
 
 ## RU
 
